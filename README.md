@@ -34,5 +34,5 @@ __This will also be bold__
 1. Item 1
 2. Item 2
 3. Item 3
-  1.Item 3a
-  2.Item 3b
+  3.1 Item 3a
+  3.2 Item 3b
