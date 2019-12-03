@@ -7,8 +7,7 @@ grammar of markdown
 \#\#\#\#\#\# This is an < th6 > tag  
 
 # EMPHASIS
-\*This text will be italic\*  
-*This text will be italic*  
+\*This text will be italic\* &nbsp;&nbsp;*This text will be italic*  
 \_This will also be italic\_  
 _This will also be italic_  
 \*\*This text will be bold\*\*  
