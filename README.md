@@ -17,3 +17,15 @@ _This will also be italic_
 __This will also be bold__  
 \*You \*\*can\*\* combine them\*&nbsp;&nbsp;
 *You **can** combine them*
+
+# Lists
+## Unordered
+\* Item 1
+\* Item 2
+  \* Item 2a
+  \* Item 2b  
+
+* Item 1
+* Item 2
+  \* Item 2a
+  \* Item 2c
