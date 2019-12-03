@@ -19,7 +19,7 @@ __This will also be bold__
 *You **can** combine them*
 
 # Lists
-## Unordered
+### Unordered
 \* Item 1  
 \* Item 2  
 &nbsp;&nbsp;\* Item 2a  
@@ -29,3 +29,8 @@ __This will also be bold__
 * Item 2
   * Item 2a
   * Item 2b
+
+### ordered
+1. Item 1
+2. Item 2
+3. Item 3
