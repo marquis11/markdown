@@ -39,4 +39,4 @@ __This will also be bold__
 
 
 
-![avatar][https://github.com/marquis11/pictureOfBlog/raw/master/markdown/javaRoute.jpg]
+![image][marquis11/pictureOfBlog/raw/master/markdown/javaRoute.jpg]
