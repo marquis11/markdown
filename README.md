@@ -39,5 +39,5 @@ __This will also be bold__
 
 
 
-![image][https://github.com/marquis11/pictureOfBlog/raw/master/markdown/javaRoute.jpg]
+![image][https://github.com/marquis11/picture/raw/master/markdown/javaroute.jpg]
 
