@@ -37,6 +37,3 @@ __This will also be bold__
     3.1 Item 3a
     3.2 Item 3b
 
-
-
-![image](https://i.ibb.co/fpBqqsp/javaroute.jpg)
