@@ -1,39 +1,88 @@
 # markdown
  markdown 的语法
 
-# HEADERS
-\#  This is an < th1> tag   一级标签
-\#\#  This is an < th2 > tag   二级标签
-\#\#\#\#\#\# This is an < th6 > tag   六级标签
+## 标题
+#空格加标题内容，1~6个# 为1级到6级标题
 
-# EMPHASIS
-\*This text will be italic\* &nbsp;&nbsp; 
-*This text will be italic*  斜体
-\_This will also be italic\_&nbsp;&nbsp;
-_This will also be italic_  
-\*\*This text will be bold\*\*&nbsp;&nbsp;
-**This text will be bold**  加粗
-\_\_This will also be bold\_\_&nbsp;&nbsp;
-__This will also be bold__  
-\*You \*\*can\*\* combine them\*&nbsp;&nbsp;
-*You **can** combine them*  强调
+## 字体
+ 斜体由星号（*）或下划线（_）包含起来，不能有空格
 
-# Lists
-### Unordered
-\* Item 1  
-\* Item 2  
-&nbsp;&nbsp;\* Item 2a  
-&nbsp;&nbsp;\* Item 2b  
+加粗由双星号（**）或双下划线（__）包含起来，不能有空格
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+## 段落
 
-### ordered
-1. Item 1
-2. Item 2
-3. Item 3
-    3.1 Item 3a
-    3.2 Item 3b
+直接编写后面加两个空格和回车
+下面是效果
+是吗  
+哈哈感觉没啥效果
 
+## 列表
+
+### 无序列表
+
+无序列表使用星号(*****)、加号(**+**)或是减号(**-**)作为列表标记，这些标记后面要添加一个空格，然后再填写内容
+
++ 一个
+
++ 两个 
+    + 是不是
+
+### 有序列表
+
+用数字并加上 **.** 号来表示
+
+1. 第一个
+
+2. 第二个
+
+	2.1 第2.1个
+
+### 嵌套
+
+列表嵌套只需在子列表中的选项前面添加四个空格即可
+
+## 区块
+
+大于号
+
+> 或者多个大于号
+
+## 代码
+
+反单引号 括起来
+
+`' print() '`
+
+或是 代码区块使用 **4 个空格**或者一个**制表符（Tab 键）测试好像是一行啊
+
+## 链接
+`[链接名称](链接地址)`
+
+## 图片
+
+```
+![alt 属性文本](图片地址)
+
+![alt 属性文本](图片地址 "可选标题")
+```
+
+## 表格
+
+```
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+```
+
+|  1   |  2   |  3   |
+| :--: | :--: | :--: |
+|      |      |  3   |
+|      |      |      |
+|      |      |      |
+
+
+
+## 其他
+
+待加
